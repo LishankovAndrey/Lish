@@ -1,3 +1,46 @@
 body{
     background: #1F1F1F;
+    font-family: "Inconsolata", monospace;  
+    font-weight: 400;
+    font-style: normal;
+    
+}
+p{margin: 0 ;}
+
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+
+.Python_code_1, .Python_code_3, .Python_code_5, .Python_code_6_12, .Python_code_13{
+    display: flex;
+}
+
+.Python_code_1, .Python_code_5{
+    gap: 5px;
+}
+.Python_code_6_12_tab{
+    margin-left: 20px;
+}
+
+.Python_code_p_purple{
+    color: #B079AC;
+}
+
+.Python_code_p_white{
+    color: #fff;
+}
+
+.Python_code_p_yellow{
+    color: #FFD20E;
+}
+
+.Python_code_p_orange{
+    color: #C66C40;
+}
+
+
+.Python_code_p_light_yellow{
+    color: #DCDCAA;
 }
