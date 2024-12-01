@@ -10,13 +10,22 @@ p{margin: 0 ;}
 .container{
     max-width: 500px;
     margin: 0 auto;
-    margin-top: 300px;
+    margin-top: 200px;
     font-size: 50px;
 }
 
 
 .Python_code_1, .Python_code_3, .Python_code_5, .Python_code_6_12, .Python_code_13{
     display: flex;
+}
+
+.Python_code_p_purple_import{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Python_code_p_purple_from{
+    padding-right: 10px;
 }
 
 .Python_code_1, .Python_code_5{
